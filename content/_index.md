@@ -1,9 +1,4 @@
 ---
-title: 主页
-type: landing
-
-sections:
-  - block: about.biography
-    content:
-      username: admin
+title: 泰加俊的主页
+type: widget_page
 ---
