@@ -1,4 +1,9 @@
 ---
-title: 泰加俊的主页
-type: widget_page
+title: 泰加俊的数学主页
+type: landing
+
+sections:
+  - block: biography
+    content:
+      username: admin
 ---
