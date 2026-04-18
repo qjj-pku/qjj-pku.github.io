@@ -12,13 +12,13 @@ sections:
         ### 📝 教学讲义
         这是我在担任高等代数下助教期间习题课讲义：
         
-        - 📄 [高等代数习题课讲义](/uploads/gaodai_1.pdf)
-        - 📄 [高等代数习题课讲义](/uploads/gaodai_2.pdf)
+        - 📄 [多项式讲义](/uploads/gaodai_1.pdf)
+        - 📄 [线性空间讲义](/uploads/gaodai_2.pdf)
 
 
         这是我在担任学生服务总队高数B小班讲师期间课程讲义
-        - 📄 [高数B小班讲义](/uploads/gaoshu_1.pdf)
-        - 📄 [高数B小班讲义](/uploads/gaoshu_1.pdf)
-        - 📄 [高数B小班讲义](/uploads/gaoshu_1.pdf)
-        - 📄 [高数B小班讲义](/uploads/gaoshu_1.pdf)
+        - 📄 [重积分讲义](/uploads/gaoshu_1.pdf)
+        - 📄 [多元积分讲义一](/uploads/gaoshu_2.pdf)
+        - 📄 [多元积分讲义二](/uploads/gaoshu_3.pdf)
+        - 📄 [常微分方程讲义一](/uploads/gaoshu_4.pdf)
 ---
