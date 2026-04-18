@@ -1,4 +1,7 @@
 ---
-title: Blog
-view: article-grid
+type: widget_page
 ---
+
+{{<  block section="about"  >}}
+author: admin
+{{<  /block  >}}
