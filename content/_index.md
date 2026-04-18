@@ -1,5 +1,5 @@
 ---
-title: 泰加俊的数学主页
+title: 秦加俊的数学主页
 type: landing
 
 sections:
