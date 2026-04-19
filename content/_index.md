@@ -21,4 +21,12 @@ sections:
           - 📄 [多元积分讲义一](/uploads/gaoshu_2.pdf)
           - 📄 [多元积分讲义二](/uploads/gaoshu_3.pdf)
           - 📄 [常微分方程讲义一](/uploads/gaoshu_4.pdf)
+
+# ✨ 新增：教育背景积木
+  - block: resume-experience
+    content:
+      username: me
+      title: 教育背景
+    design:
+      is_education_first: true # 优先显示教育背景
 ---
